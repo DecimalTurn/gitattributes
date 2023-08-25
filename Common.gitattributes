@@ -78,6 +78,6 @@
 # Exclude files from exporting
 #
 
-.gitattributes export-ignore
-.gitignore     export-ignore
+.gitattributes export-ignore text eol=lf
+.gitignore     export-ignore text eol=lf
 .gitkeep       export-ignore
